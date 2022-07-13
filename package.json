@@ -1,0 +1,11 @@
+{
+  "name": "timetuning",
+  "version": "1.0.0",
+  "description": "타임튜닝 서버 패키지",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "time-tuning",
+  "license": "ISC"
+}
